@@ -1,3 +1,4 @@
+clear
 MSG_FAIL="YOU DIDN'T SAY THE MAGIC WORD!"
 echo "Jurassic Park, System Security Interface"
 echo "Version 4.0.5, Alpha E"
